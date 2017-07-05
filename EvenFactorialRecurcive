@@ -5,7 +5,6 @@ public class evenFactorial {
 		int reul = fact(9);
 		System.out.println(reul);
 	}
-
 	static int fact(int n) {
 		if (n == 1 || n == 0)
 			return 1;
